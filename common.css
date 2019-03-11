@@ -149,7 +149,12 @@ body {
 }
 
 @media (max-width: 800px) {
+  body{
+    width: 100%;
+  }
+
   .headerInner {
+    width: 100%;
   }
 
   .headerInner a img {
