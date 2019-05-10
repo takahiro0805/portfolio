@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>gmail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="compornents/SNSicon/ver" transform="translate(-3.000000, -74.000000)" fill="#FFFFFF">
+            <g id="icon/gmail/wh" transform="translate(3.000000, 74.000000)">
+                <path d="M0,0 L5,0 L5,25 L5,25 C2.23857625,25 3.38176876e-16,22.7614237 0,20 L0,0 Z" id="Rectangle-3"></path>
+                <path d="M20,0 L25,0 L25,25 L25,25 C22.2385763,25 20,22.7614237 20,20 L20,0 Z" id="Rectangle-3" transform="translate(22.500000, 12.500000) scale(-1, 1) translate(-22.500000, -12.500000) "></path>
+                <path d="M11.8369949,13.8725288 L1.5,3.53553391 L5.03553391,-1.77635684e-15 L12.5441017,7.50856781 L20.0526695,-1.77635684e-15 L23.5882034,3.53553391 L13.2512085,13.8725288 C12.8606842,14.2630531 12.2275192,14.2630531 11.8369949,13.8725288 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
