@@ -229,6 +229,7 @@ width: 100px;
 .btnWork img{
   width: 100%;
   object-fit: cover;
+  box-shadow: 0 1px 4px rgba(24,5,5,0.12);
 }
 
 
