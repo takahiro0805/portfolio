@@ -34,20 +34,21 @@ var worksinfo = [
     "title": [
       "出会い、コミュニケーション、ドキドキ感の創出",
       "システム構成",
+      "完成デバイスの展示風景",
       "コンセプト動画"
     ],
     "text": [
       "自宅以外で仕事をするテレワーカーはテレワーカー 全体の中でも過半数存在し、ユーザは多く存在することが容易に予測できる。よって、テレワーカーの出会いの場としてコワーキングスペースに注目した。また、デバイスによって話しかける建前を作り、テレワーカーの会話が生まれやすい状況を作った。次に相互作用の生じるデバイスで擬似恋人繋ぎをすることで初対面の二人の間にドキドキ感を生み出した。",
       "手形デバイスとライトを1セットで扱いライトと手の間は有線で接続。デバイス間の通信はwifiモジュールを使用し、データベースに値を投げて通信している。手の裏にある超音波センサーで、指までの距離を測りそれを実際にサーボモーターが指を動かす角度に変換している。"
     ],
-    "photo_num": 3,
+    "photo_num": 4,
     "movie_num": 2,
     "movie_url": [
       '<iframe class="movie" src="https://www.youtube.com/embed/feT2pkiEoqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
       '<iframe class="movie" src="https://www.youtube.com/embed/ypc281XRjKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
     ],
     "info_data":[
-      2,1,2
+      2,1,1,2
     ]
   },
     {
