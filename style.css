@@ -193,7 +193,7 @@ width: 100px;
 
 .works {
   width: 100%;
-  height: auto;
+  height: fit-content;
   margin: 150px 0;
   font-size: 20px;
 }
@@ -212,6 +212,7 @@ width: 100px;
   justify-content: space-between;
   grid-row-gap: 10%;
   margin: 0 auto;
+  margin-bottom: 150px;
 }
 
 
