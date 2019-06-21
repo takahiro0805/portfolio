@@ -1,6 +1,6 @@
 p {
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   font-style: normal;
   font-stretch: normal;
@@ -20,16 +20,19 @@ p {
 .headerTopWork {
   position: fixed;
   width: 100%;
-  padding-top: 40px;
 }
 
 .headerImg {
-  width: 100%;
+  display: flex;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 10vh;
 }
 
 .contentLogo {
   height: 75px;
-  margin-top: 130px;
+  margin-top: 150px;
   margin-bottom: 20PX;
 }
 
@@ -40,8 +43,8 @@ p {
 }
 
 .copy {
-  width: 50%;
-  font-size: 35px;
+  width: 40%;
+  font-size: 25px;
   font-weight: bold;
   line-height: normal;
   letter-spacing: 3.7px;
@@ -50,47 +53,48 @@ p {
 }
 
 .overview {
-  width: 50%;
+  width: 40%;
 }
 
 .workImg {
-  width: 60%;
+  width: 50%;
 }
 
 .movie {
-  width: 60vw;
-  height: 30vw;
+  width: 50vw;
+  height: 25vw;
   margin: 30px auto;
 }
 
 .job {
-  width: 50%;
+  width: 40%;
   text-align: left;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   margin-top: 0;
 }
 
 .tools {
-  width: 50%;
+  width: 40%;
   text-align: left;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: bold;
   margin-top: 0;
 }
 
 .subtitle {
-  width: 50%;
+  width: 40%;
   text-align: left;
-  font-size: 20px;
+  font-size: 14px;
   font-weight: bold;
   color: #7f7f7f;
   margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 .title {
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", "メイリオ", sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   letter-spacing: 2.7px;
   color: var(--navy);
@@ -99,9 +103,13 @@ p {
 }
 
 .text {
-  width: 50%;
-  margin-top: 50px;
-  margin-bottom: 50px;
+  width: 40%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.text p{
+  font-size: 14px;
 }
 
 .workImg {
@@ -112,9 +120,8 @@ p {
   display: block;
   width: 350px;
   height: 55px;
-  border-radius: 27.5px;
   margin: 350px auto 150px;
-  border: solid 3px var(--deep-red);
+  border: solid 1px var(--dark-brown);
   background-color: var(--white);
   text-decoration: none;
 }
@@ -124,10 +131,10 @@ p {
   width: 350px;
   text-align: center;
   margin: 0;
-  font-size: 25px;
-  font-weight: bold;
+  font-size: 18px;
+  font-weight: normal;
   line-height: 55px;
   text-decoration: none;
-  color: var(--deep-red);
+  color: var(--dark-brown);
 
 }
