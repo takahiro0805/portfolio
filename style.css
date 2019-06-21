@@ -219,7 +219,6 @@
 .workcontents {
   width: 80%;
   display: grid;
-  margin: 0 auto;
 
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 30px;
@@ -228,6 +227,7 @@
   position: relative;
   margin-top: 300px;
   margin-bottom: 150px;
+  margin-left: 18%;
 
 }
 
