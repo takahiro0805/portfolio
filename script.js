@@ -27,6 +27,7 @@ $('#top-menu').click(function() {
 })
 
 $('#about-menu').click(function() {
+  console.log('about');
     var aboutmenu = $('#about-id').offset().top;
 
     $('html, body').animate({scrollTop:aboutmenu});
