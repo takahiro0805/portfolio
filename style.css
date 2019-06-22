@@ -160,7 +160,6 @@
 }
 
 .context p {
-  font-family: YuGo;
   font-size: 12px;
   font-weight: 300;
   font-style: normal;
@@ -294,16 +293,33 @@
   .topImg {
     width: 100%;
     height: 500px;
+    top: -350px;
   }
 
   .tpoImg img {
     width: auto;
   }
 
+  .scroll {
+    top: 80vh;
+  }
+
+  .about {
+  
+  }
+
   .aboutme {
     width: 95%;
+    height: 120%;
     margin-left: 5%;
-    align-items: flex-end;
+    vertical-align: top;
+  }
+
+  .baseline {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    vertical-align: baseline;
   }
 
   .faceImg {
@@ -312,11 +328,12 @@
 
   .selfImg {
     width: 45%;
-    padding-bottom: 75vh;
+    margin-bottom: 12px;
   }
 
   .context {
     width: 90%;
+    margin-top: 50px;
   }
 
   .context h3 {
