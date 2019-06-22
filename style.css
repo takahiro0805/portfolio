@@ -174,7 +174,7 @@
   width: 100%;
 }
 .selfImg {
-  width: 40%;
+  width: 30%;
   align-items: center;
   justify-content: space-between;
   position: absolute;
@@ -185,13 +185,6 @@
   margin: auto;
   z-index: -2;
 
-}
-
-.baseline {
-  display: flex;
-  width: 100%;
-  height: 100%;
-  align-items: center;
 }
 
 .aboutLogo {
@@ -214,6 +207,13 @@
   bottom: 0;
   z-index: 10;
 
+}
+
+.baseline {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
 }
 
 .works {
@@ -325,7 +325,9 @@
     vertical-align: top;
   }
 
-
+  .baseline {
+    align-items: baseline;
+  }
 
   .faceImg {
     position: absolute;
