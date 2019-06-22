@@ -4,8 +4,8 @@ var worksinfo = [
     "date": "2018/05~2019/03",
     "copy": "調べ方がわからなくても<br>行きたい留学が見つかる",
     "overview": "留学コンパスは、「留学したいけど何から始めたらいいのかわからない」といった悩みがある留学希望者を後押しするサービスとして、留学エージェント各社一押しの留学プランを、留学初心者でも一括比較できる留学体験の比較できるサービス。",
-    "job": "UI/UXデザイン（スマホ、PC）、広告制作",
-    "tools": "Adobe XD/Photoshop/Illustrator/PremirePro/sketch",
+    "job": "UI/UXデザイン、広告制作など",
+    "tools": "Adobe XD/Photoshop<br>Illustrator/PremirePro/sketch",
     "url": "https://ryugakucompass.com",
     "title": [
       "ユーザーの課題",
@@ -32,7 +32,7 @@ var worksinfo = [
     "job": "コンセプトメイク、Aruduino制御",
     "tools": "Aruduino IDE/firebase",
     "title": [
-      "出会い、コミュニケーション、ドキドキ感の創出",
+      "出会い、コミュニケーション<br>ドキドキ感の創出",
       "システム構成",
       "完成デバイスの展示風景",
       "コンセプト動画"
@@ -77,7 +77,17 @@ var worksinfo = [
       "copy": "ZORNの「My life」",
       "overview": "グラフィックの授業で、自分の好きなものについてのポスターを制作する課題で制作した。自分の尊敬するアーティストであるZORNの1番好きな曲「My life」の世界を表現した。潰れた空き缶でカレンダーを表現しており、繰り返しの日々の中でも小さな幸せや輝ける日があるということを表した。",
       "job": "授業課題",
-      "tools": "Photoshop/Illustrator"
+      "tools": "Photoshop/Illustrator",
+      "title": [
+        "完成作品"
+      ],
+      "text": [
+        ""
+      ],
+      "photo_num": 1,
+      "info_data":[
+        1
+      ]
     },
       {
         "id": "fondilogo",

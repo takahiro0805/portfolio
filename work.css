@@ -11,6 +11,10 @@ p {
   color: var(--dark-brown);
 }
 
+body {
+  background-color: #f7f7f7;
+}
+
 #workView {
   display: flex;
   flex-direction: column;
@@ -100,6 +104,7 @@ p {
   color: var(--navy);
   margin-top: 250px;
   margin-bottom: 0;
+  text-align: center;
 }
 
 .text {
