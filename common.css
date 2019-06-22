@@ -116,9 +116,13 @@ p {
   right: 0;
   bottom: 0;
   z-index: 10;
-  padding-right: 10px;
-  padding-bottom: 5vh;
+  padding-right: 5px;
+  padding-bottom: 0;
+}
 
+.copyright img {
+  max-width: 11px;
+  height: auto;
 }
 
 #loading {

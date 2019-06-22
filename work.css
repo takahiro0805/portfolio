@@ -138,3 +138,90 @@ p {
   color: var(--dark-brown);
 
 }
+
+@media (max-width: 800px) {
+
+  .headerImg {
+    width: 100%;
+    padding-top: 0;
+  }
+
+  .contentLogo {
+    height: 35px;
+    margin-top: 35px;
+    margin-bottom: 10PX;
+  }
+
+  .date {
+    margin-top: 0;
+  }
+
+  .copy {
+    width: 80%;
+    font-size: 16px;
+    letter-spacing: 2.7px;
+  }
+
+  .overview {
+    width: 80%;
+    font-size: 14px;
+  }
+
+  .workImg {
+    width: 90%;
+  }
+
+  .movie {
+    width: 90vw;
+    height: 45vw;
+  }
+
+  .job {
+    width: 80%;
+    font-size: 14px;
+  }
+
+  .tools {
+    width: 80%;
+    font-size: 14px;
+  }
+
+  .subtitle {
+    width: 80%;
+    font-size: 12px;
+  }
+
+  .title {
+    font-size: 16px;
+    letter-spacing: 1.7px;
+    margin-top: 150px;
+  }
+
+  .text {
+    width: 80%;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 11px;
+  }
+
+  .workImg {
+    margin: 12px auto;
+  }
+
+  .backBtn {
+    display: block;
+    width: 250px;
+    height: 45px;
+    margin: 250px auto 150px;
+  }
+
+
+  .backBtn p {
+    width: 250px;
+    font-size: 14px;
+    line-height: 45px;
+
+  }
+
+
+}
