@@ -65,6 +65,7 @@
 }
 
 .menu {
+  cursor: pointer;
   display: block;
   width: 500px;
   float: right;
