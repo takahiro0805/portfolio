@@ -99,7 +99,7 @@ var worksinfo = [
       {
         "id": "fondilogo",
         "date": "2019/04",
-        "copy": "境界や空間が混ざり合う常時接続英会話",
+        "copy": "境界や空間が混ざり合う<br>常時接続英会話",
         "overview": "株式会社CompassPioneeringが、新規事業として立ち上げる予定の常時接続英会話サービス「fondi」のロゴデザインを行った。また、それに伴うトーン・マナーの選定を行った。fondiとは、「Fairly Officious but Neet DeLorean + i」という造語の略で、意味は「そこそこお節介な、でも自堕落なデロリアンと私」ということ。",
         "job": "ロゴデザイン",
         "tools": "Illustrator",
@@ -120,7 +120,7 @@ var worksinfo = [
         {
           "id": "cpfondi",
           "date": "2019/05",
-          "copy": "自由と熱狂で、境界が溶け出す世界を作る",
+          "copy": "自由と熱狂で、<br>境界が溶け出す世界を作る",
           "overview": "株式会社CompassPioneeringが、上記のphilosophyととともに名前を変え「株式会社fondi」と刷新した。その際に、vission・mission・valueを再策定した。これらをもとに、CIを体現するLPのデザインを行った。",
           "url": "https://fondi.co.jp",
           "job": "LPデザイン",
